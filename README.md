@@ -49,4 +49,3 @@ a=int(a) //variable a yang sudah diinput
 b=int(b) //variable b yang sudah diinput
 print("hasil penjumlahan {0}+{1}=%s" .format(a,b) %(a+b)) //hasil penjumlahan variable a dan b
 print("hasil pembagian {0}/{1}=%s" .format(a,b) %(a/b)) //hasil pemabagian variable a dan b
-
